@@ -2,7 +2,7 @@
 //  GameScene.swift
 //  CuteBunnySpriteKit
 //
-//  Created by JinUk Baek on 2016. 12. 13..
+//  Created by JinUk Baek on 2016. 12. 13.
 //  Copyright © 2016년 chiggang. All rights reserved.
 //
 
