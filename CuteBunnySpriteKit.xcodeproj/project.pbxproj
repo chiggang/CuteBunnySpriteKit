@@ -15,6 +15,25 @@
 		D29622501DFEFD0800AEA051 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D296224E1DFEFD0800AEA051 /* Main.storyboard */; };
 		D29622521DFEFD0800AEA051 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D29622511DFEFD0800AEA051 /* Assets.xcassets */; };
 		D29622551DFEFD0800AEA051 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D29622531DFEFD0800AEA051 /* LaunchScreen.storyboard */; };
+		D29622701DFF017300AEA051 /* Apple.png in Resources */ = {isa = PBXBuildFile; fileRef = D296225D1DFF017300AEA051 /* Apple.png */; };
+		D29622711DFF017300AEA051 /* Basketball.png in Resources */ = {isa = PBXBuildFile; fileRef = D296225E1DFF017300AEA051 /* Basketball.png */; };
+		D29622721DFF017300AEA051 /* BunnyCloseEyes1.png in Resources */ = {isa = PBXBuildFile; fileRef = D296225F1DFF017300AEA051 /* BunnyCloseEyes1.png */; };
+		D29622731DFF017300AEA051 /* BunnyCloseEyes2.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622601DFF017300AEA051 /* BunnyCloseEyes2.png */; };
+		D29622741DFF017300AEA051 /* BunnyCloseEyes3.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622611DFF017300AEA051 /* BunnyCloseEyes3.png */; };
+		D29622751DFF017300AEA051 /* BunnyCloseEyes4.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622621DFF017300AEA051 /* BunnyCloseEyes4.png */; };
+		D29622761DFF017300AEA051 /* BunnyCloseEyes5.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622631DFF017300AEA051 /* BunnyCloseEyes5.png */; };
+		D29622771DFF017300AEA051 /* BunnyDefault.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622641DFF017300AEA051 /* BunnyDefault.png */; };
+		D29622781DFF017300AEA051 /* BunnyEat.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622651DFF017300AEA051 /* BunnyEat.png */; };
+		D29622791DFF017300AEA051 /* BunnyEat1.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622661DFF017300AEA051 /* BunnyEat1.png */; };
+		D296227A1DFF017300AEA051 /* BunnyEat2.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622671DFF017300AEA051 /* BunnyEat2.png */; };
+		D296227B1DFF017300AEA051 /* BunnyEat3.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622681DFF017300AEA051 /* BunnyEat3.png */; };
+		D296227C1DFF017300AEA051 /* BunnyRun1.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622691DFF017300AEA051 /* BunnyRun1.png */; };
+		D296227D1DFF017300AEA051 /* BunnyRun2.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226A1DFF017300AEA051 /* BunnyRun2.png */; };
+		D296227E1DFF017300AEA051 /* BunnyText.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226B1DFF017300AEA051 /* BunnyText.png */; };
+		D296227F1DFF017300AEA051 /* Carrot1.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226C1DFF017300AEA051 /* Carrot1.png */; };
+		D29622801DFF017300AEA051 /* Carrot2.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226D1DFF017300AEA051 /* Carrot2.png */; };
+		D29622811DFF017300AEA051 /* Carrot3.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226E1DFF017300AEA051 /* Carrot3.png */; };
+		D29622821DFF017300AEA051 /* Strawberry.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226F1DFF017300AEA051 /* Strawberry.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +47,25 @@
 		D29622511DFEFD0800AEA051 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D29622541DFEFD0800AEA051 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D29622561DFEFD0800AEA051 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D296225D1DFF017300AEA051 /* Apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Apple.png; sourceTree = "<group>"; };
+		D296225E1DFF017300AEA051 /* Basketball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Basketball.png; sourceTree = "<group>"; };
+		D296225F1DFF017300AEA051 /* BunnyCloseEyes1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyCloseEyes1.png; sourceTree = "<group>"; };
+		D29622601DFF017300AEA051 /* BunnyCloseEyes2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyCloseEyes2.png; sourceTree = "<group>"; };
+		D29622611DFF017300AEA051 /* BunnyCloseEyes3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyCloseEyes3.png; sourceTree = "<group>"; };
+		D29622621DFF017300AEA051 /* BunnyCloseEyes4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyCloseEyes4.png; sourceTree = "<group>"; };
+		D29622631DFF017300AEA051 /* BunnyCloseEyes5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyCloseEyes5.png; sourceTree = "<group>"; };
+		D29622641DFF017300AEA051 /* BunnyDefault.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyDefault.png; sourceTree = "<group>"; };
+		D29622651DFF017300AEA051 /* BunnyEat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyEat.png; sourceTree = "<group>"; };
+		D29622661DFF017300AEA051 /* BunnyEat1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyEat1.png; sourceTree = "<group>"; };
+		D29622671DFF017300AEA051 /* BunnyEat2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyEat2.png; sourceTree = "<group>"; };
+		D29622681DFF017300AEA051 /* BunnyEat3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyEat3.png; sourceTree = "<group>"; };
+		D29622691DFF017300AEA051 /* BunnyRun1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyRun1.png; sourceTree = "<group>"; };
+		D296226A1DFF017300AEA051 /* BunnyRun2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyRun2.png; sourceTree = "<group>"; };
+		D296226B1DFF017300AEA051 /* BunnyText.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyText.png; sourceTree = "<group>"; };
+		D296226C1DFF017300AEA051 /* Carrot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Carrot1.png; sourceTree = "<group>"; };
+		D296226D1DFF017300AEA051 /* Carrot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Carrot2.png; sourceTree = "<group>"; };
+		D296226E1DFF017300AEA051 /* Carrot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Carrot3.png; sourceTree = "<group>"; };
+		D296226F1DFF017300AEA051 /* Strawberry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Strawberry.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +98,7 @@
 		D29622431DFEFD0800AEA051 /* CuteBunnySpriteKit */ = {
 			isa = PBXGroup;
 			children = (
+				D296225C1DFF011900AEA051 /* Resources */,
 				D29622441DFEFD0800AEA051 /* AppDelegate.swift */,
 				D29622461DFEFD0800AEA051 /* GameScene.sks */,
 				D29622481DFEFD0800AEA051 /* Actions.sks */,
@@ -71,6 +110,32 @@
 				D29622561DFEFD0800AEA051 /* Info.plist */,
 			);
 			path = CuteBunnySpriteKit;
+			sourceTree = "<group>";
+		};
+		D296225C1DFF011900AEA051 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D296225D1DFF017300AEA051 /* Apple.png */,
+				D296225E1DFF017300AEA051 /* Basketball.png */,
+				D296225F1DFF017300AEA051 /* BunnyCloseEyes1.png */,
+				D29622601DFF017300AEA051 /* BunnyCloseEyes2.png */,
+				D29622611DFF017300AEA051 /* BunnyCloseEyes3.png */,
+				D29622621DFF017300AEA051 /* BunnyCloseEyes4.png */,
+				D29622631DFF017300AEA051 /* BunnyCloseEyes5.png */,
+				D29622641DFF017300AEA051 /* BunnyDefault.png */,
+				D29622651DFF017300AEA051 /* BunnyEat.png */,
+				D29622661DFF017300AEA051 /* BunnyEat1.png */,
+				D29622671DFF017300AEA051 /* BunnyEat2.png */,
+				D29622681DFF017300AEA051 /* BunnyEat3.png */,
+				D29622691DFF017300AEA051 /* BunnyRun1.png */,
+				D296226A1DFF017300AEA051 /* BunnyRun2.png */,
+				D296226B1DFF017300AEA051 /* BunnyText.png */,
+				D296226C1DFF017300AEA051 /* Carrot1.png */,
+				D296226D1DFF017300AEA051 /* Carrot2.png */,
+				D296226E1DFF017300AEA051 /* Carrot3.png */,
+				D296226F1DFF017300AEA051 /* Strawberry.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -100,7 +165,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
-				LastUpgradeCheck = 0810;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = chiggang;
 				TargetAttributes = {
 					D29622401DFEFD0800AEA051 = {
@@ -133,11 +198,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D29622701DFF017300AEA051 /* Apple.png in Resources */,
+				D296227F1DFF017300AEA051 /* Carrot1.png in Resources */,
 				D29622501DFEFD0800AEA051 /* Main.storyboard in Resources */,
+				D29622801DFF017300AEA051 /* Carrot2.png in Resources */,
+				D29622711DFF017300AEA051 /* Basketball.png in Resources */,
+				D29622781DFF017300AEA051 /* BunnyEat.png in Resources */,
+				D29622821DFF017300AEA051 /* Strawberry.png in Resources */,
+				D29622761DFF017300AEA051 /* BunnyCloseEyes5.png in Resources */,
+				D296227E1DFF017300AEA051 /* BunnyText.png in Resources */,
+				D29622771DFF017300AEA051 /* BunnyDefault.png in Resources */,
+				D29622731DFF017300AEA051 /* BunnyCloseEyes2.png in Resources */,
 				D29622471DFEFD0800AEA051 /* GameScene.sks in Resources */,
+				D296227C1DFF017300AEA051 /* BunnyRun1.png in Resources */,
+				D296227A1DFF017300AEA051 /* BunnyEat2.png in Resources */,
+				D29622741DFF017300AEA051 /* BunnyCloseEyes3.png in Resources */,
 				D29622521DFEFD0800AEA051 /* Assets.xcassets in Resources */,
+				D296227B1DFF017300AEA051 /* BunnyEat3.png in Resources */,
 				D29622551DFEFD0800AEA051 /* LaunchScreen.storyboard in Resources */,
+				D29622751DFF017300AEA051 /* BunnyCloseEyes4.png in Resources */,
+				D29622811DFF017300AEA051 /* Carrot3.png in Resources */,
+				D296227D1DFF017300AEA051 /* BunnyRun2.png in Resources */,
+				D29622791DFF017300AEA051 /* BunnyEat1.png in Resources */,
 				D29622491DFEFD0800AEA051 /* Actions.sks in Resources */,
+				D29622721DFF017300AEA051 /* BunnyCloseEyes1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,6 +278,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -216,7 +301,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -244,6 +329,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -260,7 +346,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -314,6 +400,7 @@
 				D296225B1DFEFD0800AEA051 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
