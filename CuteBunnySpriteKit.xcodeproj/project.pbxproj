@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D290B1FA1E1975DB0065BA11 /* BunnyRun1.png in Resources */ = {isa = PBXBuildFile; fileRef = D290B1F81E1975DB0065BA11 /* BunnyRun1.png */; };
+		D290B1FB1E1975DB0065BA11 /* BunnyRun2.png in Resources */ = {isa = PBXBuildFile; fileRef = D290B1F91E1975DB0065BA11 /* BunnyRun2.png */; };
 		D29622451DFEFD0800AEA051 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D29622441DFEFD0800AEA051 /* AppDelegate.swift */; };
 		D29622471DFEFD0800AEA051 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = D29622461DFEFD0800AEA051 /* GameScene.sks */; };
 		D29622491DFEFD0800AEA051 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = D29622481DFEFD0800AEA051 /* Actions.sks */; };
@@ -27,8 +29,6 @@
 		D29622791DFF017300AEA051 /* BunnyEat1.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622661DFF017300AEA051 /* BunnyEat1.png */; };
 		D296227A1DFF017300AEA051 /* BunnyEat2.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622671DFF017300AEA051 /* BunnyEat2.png */; };
 		D296227B1DFF017300AEA051 /* BunnyEat3.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622681DFF017300AEA051 /* BunnyEat3.png */; };
-		D296227C1DFF017300AEA051 /* BunnyRun1.png in Resources */ = {isa = PBXBuildFile; fileRef = D29622691DFF017300AEA051 /* BunnyRun1.png */; };
-		D296227D1DFF017300AEA051 /* BunnyRun2.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226A1DFF017300AEA051 /* BunnyRun2.png */; };
 		D296227E1DFF017300AEA051 /* BunnyText.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226B1DFF017300AEA051 /* BunnyText.png */; };
 		D296227F1DFF017300AEA051 /* Carrot1.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226C1DFF017300AEA051 /* Carrot1.png */; };
 		D29622801DFF017300AEA051 /* Carrot2.png in Resources */ = {isa = PBXBuildFile; fileRef = D296226D1DFF017300AEA051 /* Carrot2.png */; };
@@ -37,6 +37,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D290B1F81E1975DB0065BA11 /* BunnyRun1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyRun1.png; sourceTree = "<group>"; };
+		D290B1F91E1975DB0065BA11 /* BunnyRun2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyRun2.png; sourceTree = "<group>"; };
 		D29622411DFEFD0800AEA051 /* CuteBunnySpriteKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CuteBunnySpriteKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D29622441DFEFD0800AEA051 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D29622461DFEFD0800AEA051 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -59,8 +61,6 @@
 		D29622661DFF017300AEA051 /* BunnyEat1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyEat1.png; sourceTree = "<group>"; };
 		D29622671DFF017300AEA051 /* BunnyEat2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyEat2.png; sourceTree = "<group>"; };
 		D29622681DFF017300AEA051 /* BunnyEat3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyEat3.png; sourceTree = "<group>"; };
-		D29622691DFF017300AEA051 /* BunnyRun1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyRun1.png; sourceTree = "<group>"; };
-		D296226A1DFF017300AEA051 /* BunnyRun2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyRun2.png; sourceTree = "<group>"; };
 		D296226B1DFF017300AEA051 /* BunnyText.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BunnyText.png; sourceTree = "<group>"; };
 		D296226C1DFF017300AEA051 /* Carrot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Carrot1.png; sourceTree = "<group>"; };
 		D296226D1DFF017300AEA051 /* Carrot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Carrot2.png; sourceTree = "<group>"; };
@@ -123,12 +123,12 @@
 				D29622621DFF017300AEA051 /* BunnyCloseEyes4.png */,
 				D29622631DFF017300AEA051 /* BunnyCloseEyes5.png */,
 				D29622641DFF017300AEA051 /* BunnyDefault.png */,
+				D290B1F81E1975DB0065BA11 /* BunnyRun1.png */,
+				D290B1F91E1975DB0065BA11 /* BunnyRun2.png */,
 				D29622651DFF017300AEA051 /* BunnyEat.png */,
 				D29622661DFF017300AEA051 /* BunnyEat1.png */,
 				D29622671DFF017300AEA051 /* BunnyEat2.png */,
 				D29622681DFF017300AEA051 /* BunnyEat3.png */,
-				D29622691DFF017300AEA051 /* BunnyRun1.png */,
-				D296226A1DFF017300AEA051 /* BunnyRun2.png */,
 				D296226B1DFF017300AEA051 /* BunnyText.png */,
 				D296226C1DFF017300AEA051 /* Carrot1.png */,
 				D296226D1DFF017300AEA051 /* Carrot2.png */,
@@ -209,16 +209,16 @@
 				D296227E1DFF017300AEA051 /* BunnyText.png in Resources */,
 				D29622771DFF017300AEA051 /* BunnyDefault.png in Resources */,
 				D29622731DFF017300AEA051 /* BunnyCloseEyes2.png in Resources */,
+				D290B1FB1E1975DB0065BA11 /* BunnyRun2.png in Resources */,
 				D29622471DFEFD0800AEA051 /* GameScene.sks in Resources */,
-				D296227C1DFF017300AEA051 /* BunnyRun1.png in Resources */,
 				D296227A1DFF017300AEA051 /* BunnyEat2.png in Resources */,
 				D29622741DFF017300AEA051 /* BunnyCloseEyes3.png in Resources */,
 				D29622521DFEFD0800AEA051 /* Assets.xcassets in Resources */,
+				D290B1FA1E1975DB0065BA11 /* BunnyRun1.png in Resources */,
 				D296227B1DFF017300AEA051 /* BunnyEat3.png in Resources */,
 				D29622551DFEFD0800AEA051 /* LaunchScreen.storyboard in Resources */,
 				D29622751DFF017300AEA051 /* BunnyCloseEyes4.png in Resources */,
 				D29622811DFF017300AEA051 /* Carrot3.png in Resources */,
-				D296227D1DFF017300AEA051 /* BunnyRun2.png in Resources */,
 				D29622791DFF017300AEA051 /* BunnyEat1.png in Resources */,
 				D29622491DFEFD0800AEA051 /* Actions.sks in Resources */,
 				D29622721DFF017300AEA051 /* BunnyCloseEyes1.png in Resources */,
